@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  snake.cpp
+C:\Users\HJC\Documents\Visual Studio 2017\Projects\Win32Project5\Win32Project5\snake.cpp(48,17): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\HJC\Documents\Visual Studio 2017\Projects\Win32Project5\Win32Project5\snake.cpp(89,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\HJC\Documents\Visual Studio 2017\Projects\Win32Project5\Win32Project5\snake.cpp(100,16): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\HJC\Documents\Visual Studio 2017\Projects\Win32Project5\Win32Project5\snake.cpp : fatal error C1083: 无法打开编译器生成的文件: “C:\Users\HJC\Documents\Visual Studio 2017\Projects\Win32Project5\Win32Project5\Debug\snake.obj”: Permission denied
